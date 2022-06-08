@@ -2,7 +2,7 @@
 In this Lab we're going to walk through how to create an Active Directory home lab Environment using Oracle Virtual Box. Configuring and running this lab will definitely help develop your understanding of how active directory and windows networking works, so I'd highly recommend running through it a couple times, ask questions where stuff is unclear, and eventually try to build it on your own without watching. Please let me know if you have any questions!
 
 
-Project Overview Flowmap:
+--Project Overview Flowmap:
 ![Flow map ](https://user-images.githubusercontent.com/107056915/172675842-3184752e-6d4e-49b5-8c07-b9d6e96591d5.png)
 
 <p>Requirements for this lab are: </p>
@@ -14,5 +14,6 @@ Project Overview Flowmap:
 
 Setup Server Network Adapters 
 <br>
-<p> Label Adapters </p>
+Label Adapters
 ![Label Internet](https://user-images.githubusercontent.com/107056915/172684263-2428e781-18aa-4776-8170-c4c245d64016.png)
+
