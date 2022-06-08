@@ -16,4 +16,7 @@ Setup Server Network Adapters
 <br>
 Label Adapters
 ![Label Internet](https://user-images.githubusercontent.com/107056915/172684263-2428e781-18aa-4776-8170-c4c245d64016.png)
+Determine Internet and Internal.
+![Int](https://user-images.githubusercontent.com/107056915/172686256-e98d8b77-a51f-4842-b2dd-bbcd6877d05c.png)
+Rename 
 
