@@ -33,4 +33,9 @@ Assign IP address to internal adapter.
 ![Assing ip 3](https://user-images.githubusercontent.com/107056915/172697061-7ce8e8cb-7190-4fa6-848c-b71d2dba7309.png)
 ![assign IP 4](https://user-images.githubusercontent.com/107056915/172696993-e6416426-463c-46c4-9fdd-8576b83f565f.png)
 
+<br>
+
+Install Active Directory Domain Services.
+
+
 
