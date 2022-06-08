@@ -13,3 +13,6 @@ Project Overview Flowmap:
 <br>
 
 Setup Server Network Adapters 
+<br>
+<p> Label Adapters </p>
+![Label Internet](https://user-images.githubusercontent.com/107056915/172683418-4ea1a3b6-38c1-42a0-80a0-2c6874ce3e91.png)
