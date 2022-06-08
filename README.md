@@ -46,6 +46,13 @@ Install Active Directory Domain Services.
 <br>
 
 Promote Domain Controller
+![pdc1](https://user-images.githubusercontent.com/107056915/172701121-31983577-75f7-420f-8f2e-dd4a8d80e831.png)
+![pdc2](https://user-images.githubusercontent.com/107056915/172701266-fe176c9d-974c-4efd-a47f-5f456306197c.png)
+![pdc3](https://user-images.githubusercontent.com/107056915/172701279-3bde6a39-d614-4616-aee9-84976558ca59.png)
+![pdc4](https://user-images.githubusercontent.com/107056915/172701291-8cb8ef07-3c11-48ae-9245-d25193738261.png)
+![pdc5](https://user-images.githubusercontent.com/107056915/172701304-1f06cc3c-b6dc-4b91-8d24-c4dcdc77e617.png)
+System will reboot.
+![pdc6](https://user-images.githubusercontent.com/107056915/172701319-a1d359d2-75ab-4e70-9d6b-cf6c2e402a83.png)
 
 
 
