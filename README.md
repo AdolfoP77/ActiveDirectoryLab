@@ -5,3 +5,11 @@ In this Lab we're going to walk through how to create an Active Directory home l
 Project Overview Flowmap:
 ![Flow map ](https://user-images.githubusercontent.com/107056915/172675842-3184752e-6d4e-49b5-8c07-b9d6e96591d5.png)
 
+<p>Requirements for this lab are: </p>
+<p>1 Windows 10 Client. (VM)</p>
+<p>1 Windows Server 2019 (VM) </p>
+<p>For steps on how to set these 2 VM's click here:</p>
+<br>
+<br>
+
+Setup Server Network Adapters 
