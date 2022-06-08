@@ -42,6 +42,9 @@ Install Active Directory Domain Services.
 ![installadds4](https://user-images.githubusercontent.com/107056915/172698651-88000a39-a368-4595-8b7c-29b158bad024.png)
 ![installadds5](https://user-images.githubusercontent.com/107056915/172698668-60227b14-70ad-4ca3-b236-9de1fde416e9.png)
 
+<br>
+
+Promote Domain Controller
 
 
 
