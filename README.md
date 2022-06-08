@@ -54,6 +54,6 @@ Promote Domain Controller
 System will reboot.
 ![pdc6](https://user-images.githubusercontent.com/107056915/172701319-a1d359d2-75ab-4e70-9d6b-cf6c2e402a83.png)
 
+<br>
 
-
-
+Create Domain Admin Account
