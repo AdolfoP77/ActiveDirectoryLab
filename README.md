@@ -98,3 +98,6 @@ Install NAT
 ![RASLABEL2](https://user-images.githubusercontent.com/107056915/172879919-dde21f84-9199-4f7c-9258-c3f33b632986.png)
 Green arrow indicates succesfull installation.
 ![RASLABEL3](https://user-images.githubusercontent.com/107056915/172879923-0dcb21c6-aed6-4de8-bfaa-d57000aa0143.png)
+
+<br>
+Install and Configure DHCP.
