@@ -85,6 +85,7 @@ Install RAS/NAT (Remote Access Server/Network Address Translation)
 ![RAS5](https://user-images.githubusercontent.com/107056915/172879601-e8522f8d-5dad-4294-a848-6e44c0de9154.png)
 ![RAS6](https://user-images.githubusercontent.com/107056915/172879606-4daa8d62-8073-4c93-835a-5f387179a547.png)
 ![RAS7](https://user-images.githubusercontent.com/107056915/172879653-b0c7fd42-d174-49ed-9266-4c4440621b65.png)
+Install NAT
 ![RAS8](https://user-images.githubusercontent.com/107056915/172879658-75ddc7ae-8157-4818-9fd1-79600acac0cf.png)
 ![RAS9](https://user-images.githubusercontent.com/107056915/172879697-a7a6c998-113b-439c-913e-006b50143e50.png)
 ![RAS10](https://user-images.githubusercontent.com/107056915/172879700-6de73d38-bc0b-46d7-9b46-72ba3852f696.png)
