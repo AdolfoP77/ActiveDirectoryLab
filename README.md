@@ -61,6 +61,7 @@ Create Domain Admin Account
 ![admin2](https://user-images.githubusercontent.com/107056915/172871260-e40310ed-27ee-4647-82b4-96b77c5acd40.png)
 ![admin3](https://user-images.githubusercontent.com/107056915/172871270-83c31086-65f4-4702-a154-e67e94cdbc37.png)
 ![admin4](https://user-images.githubusercontent.com/107056915/172871277-0ef7deec-ecc8-4da6-a6a7-00f86c473353.png)
+In this section we set a "a-" to specify this will be an admin account followed by First initial and Last name.
 ![adminadd](https://user-images.githubusercontent.com/107056915/172874163-7ba3d435-a2a2-4362-a31e-704ca8bb86fe.png)
 ![admin6](https://user-images.githubusercontent.com/107056915/172871293-ff6f56d6-c094-498c-ab25-19012dcd4f09.png)
 70e20e8-43f0-4412-83eb-8e3209f4d180.png)
