@@ -100,16 +100,17 @@ Green arrow indicates succesfull installation.
 ![RASLABEL3](https://user-images.githubusercontent.com/107056915/172879923-0dcb21c6-aed6-4de8-bfaa-d57000aa0143.png)
 
 <br>
+
 Install and Configure DHCP.
 <br>
-This will allow our windows10 client to receive IP address to access the internet.
-![DHCP](https://user-images.githubusercontent.com/107056915/172886822-cb5cd3a2-df53-4ea9-8b37-8d32b7529f37.png)
-![DHCP1](https://user-images.githubusercontent.com/107056915/172886838-88d4cf4e-06ca-4bee-9d2d-be88fbb33f0c.png)
-![DHCP2](https://user-images.githubusercontent.com/107056915/172886898-e54ece31-5ef6-4e5c-81f4-fc9fe6e5998f.png)
-![DHCP3](https://user-images.githubusercontent.com/107056915/172886908-5838a9d2-5ed7-434e-8f04-2b5a453f03f6.png)
-![DHCP4](https://user-images.githubusercontent.com/107056915/172886963-7c7c65a2-bf34-4618-bce4-e233f6caf127.png)
-![DHCP5](https://user-images.githubusercontent.com/107056915/172886967-f651e042
-![DHCP6](https://user-images.githubusercontent.com/107056915/172887040-583e881c-2318-47dc-9d76-c4f0599b5a5b.png)
+This will allow our windows10 client to receive IP address to access the internet
+![DHCP](https://user-images.githubusercontent.com/107056915/172888478-05e18a63-3087-4294-b22e-14c3401036c6.png)
+![DHCP1](https://user-images.githubusercontent.com/107056915/172888512-f07c7a56-39bd-4eb4-9457-b29ed7ad5f2e.png)
+![DHCP2](https://user-images.githubusercontent.com/107056915/172888531-34db037b-4f62-48b5-822a-65d18127429c.png)
+![DHCP3](https://user-images.githubusercontent.com/107056915/172888544-537d166a-8c42-4f08-bf33-8f54c854bf7a.png)
+![DHCP4](https://user-images.githubusercontent.com/107056915/172888555-4576a6d3-8603-49ee-ba77-a51d6dd55809.png)
+![DHCP5](https://user-images.githubusercontent.com/107056915/172888567-7d56a014-3c05-421d-8b18-6aa7d0ac8013.png)
+![DHCP6](https://user-images.githubusercontent.com/107056915/172888581-9224e128-b71e-47e7-bd58-9d14939f6216.png)
 
 <br>
 
