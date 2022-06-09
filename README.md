@@ -57,3 +57,20 @@ System will reboot.
 <br>
 
 Create Domain Admin Account
+![admin1](https://user-images.githubusercontent.com/107056915/172871252-87a12308-7bc3-4a19-8c46-43549e38bd78.png)
+![admin2](https://user-images.githubusercontent.com/107056915/172871260-e40310ed-27ee-4647-82b4-96b77c5acd40.png)
+![admin3](https://user-images.githubusercontent.com/107056915/172871270-83c31086-65f4-4702-a154-e67e94cdbc37.png)
+![admin4](https://user-images.githubusercontent.com/107056915/172871277-0ef7deec-ecc8-4da6-a6a7-00f86c473353.png)
+![admin5](https://user-images.githubusercontent.com/107056915/172871286-9
+![admin6](https://user-images.githubusercontent.com/107056915/172871293-ff6f56d6-c094-498c-ab25-19012dcd4f09.png)
+70e20e8-43f0-4412-83eb-8e3209f4d180.png)
+![admin7](https://user-images.githubusercontent.com/107056915/172871339-fe658c32-60b4-4c95-904d-814538a971cc.png)
+![admin8](https://user-images.githubusercontent.com/107056915/172871347-d5b0839d-1daa-4398-b655-3061d7b5d15a.png)
+![admin9](https://user-images.githubusercontent.com/107056915/172871450-de456602-e1c2-41eb-be89-64cd2547a0a2.png)
+![admin10](https://user-images.githubusercontent.com/107056915/172871457-c1e79eaf-2e0b-4c2b-a96b-a942c7f85c03.png)
+![admin11](https://user-images.githubusercontent.com/107056915/172871492-5f39aad7-c9b1-41fc-b1c2-cafdec3bc0b0.png)
+![admin12](https://user-images.githubusercontent.com/107056915/172871502-0835799d-168d-4c9d-83a0-9f7d1488ea9b.png)
+![admin13](https://user-images.githubusercontent.com/107056915/172871542-93869146-dc74-4322-85c4-39569676d52b.png)
+![admin14](https://user-images.githubusercontent.com/107056915/172871545-7cfe29b0-789e-41e2-b1ce-81614fb32458.png)
+![admin15](https://user-images.githubusercontent.com/107056915/172871564-93a0479b-c4f4-4c4e-97e2-76eae5d2a61b.png)
+
