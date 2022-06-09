@@ -78,6 +78,7 @@ In this section we set a "a-" to specify this will be an admin account followed 
 <br>
 
 Install RAS/NAT (Remote Access Server/Network Address Translation)
+Install RAS
 ![RAS1](https://user-images.githubusercontent.com/107056915/172879459-5c80e481-3bc2-4899-a445-fc46c44f42cd.png)
 ![RAS2](https://user-images.githubusercontent.com/107056915/172879466-c43c692d-6a9f-4d56-b629-55bd103c96b1.png)
 ![RAS3](https://user-images.githubusercontent.com/107056915/172879552-d687c683-f21c-4c5b-b9a6-634046f173a9.png)
