@@ -114,8 +114,8 @@ This will allow our windows10 client to receive IP address to access the interne
 <br>
 
 Install Scope
-![SCOPE1](https://user-images.githubusercontent.com/107056915/172887044-7ae3ef6b-1c23-4f34-ba70-55f363f79fe4.png)
--0b2e-47e6-a229-9d9f657a9bb5.png)
+
+
 ![SCOPE2](https://user-images.githubusercontent.com/107056915/172887153-6851ecae-aeac-4a36-a686-0883d2d2eaee.png)
 ![SCOPE3](https://user-images.githubusercontent.com/107056915/172887156-e930ede7-445f-465d-8330-cfa2e0ff7c69.png)
 ![SCOPE4](https://user-images.githubusercontent.com/107056915/172887186-c043cd13-68e3-4971-af1f-4e889749c9ea.png)
