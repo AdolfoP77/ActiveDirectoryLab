@@ -103,3 +103,32 @@ Green arrow indicates succesfull installation.
 Install and Configure DHCP.
 <br>
 This will allow our windows10 client to receive IP address to access the internet.
+![DHCP](https://user-images.githubusercontent.com/107056915/172886822-cb5cd3a2-df53-4ea9-8b37-8d32b7529f37.png)
+![DHCP1](https://user-images.githubusercontent.com/107056915/172886838-88d4cf4e-06ca-4bee-9d2d-be88fbb33f0c.png)
+![DHCP2](https://user-images.githubusercontent.com/107056915/172886898-e54ece31-5ef6-4e5c-81f4-fc9fe6e5998f.png)
+![DHCP3](https://user-images.githubusercontent.com/107056915/172886908-5838a9d2-5ed7-434e-8f04-2b5a453f03f6.png)
+![DHCP4](https://user-images.githubusercontent.com/107056915/172886963-7c7c65a2-bf34-4618-bce4-e233f6caf127.png)
+![DHCP5](https://user-images.githubusercontent.com/107056915/172886967-f651e042
+![DHCP6](https://user-images.githubusercontent.com/107056915/172887040-583e881c-2318-47dc-9d76-c4f0599b5a5b.png)
+
+<br>
+
+Install Scope
+![SCOPE1](https://user-images.githubusercontent.com/107056915/172887044-7ae3ef6b-1c23-4f34-ba70-55f363f79fe4.png)
+-0b2e-47e6-a229-9d9f657a9bb5.png)
+![SCOPE2](https://user-images.githubusercontent.com/107056915/172887153-6851ecae-aeac-4a36-a686-0883d2d2eaee.png)
+![SCOPE3](https://user-images.githubusercontent.com/107056915/172887156-e930ede7-445f-465d-8330-cfa2e0ff7c69.png)
+![SCOPE4](https://user-images.githubusercontent.com/107056915/172887186-c043cd13-68e3-4971-af1f-4e889749c9ea.png)
+![SCOPE5](https://user-images.githubusercontent.com/107056915/172887191-4f7424c4-0306-4544-a996-9614ddb22241.png)
+![SCOPE6](https://user-images.githubusercontent.com/107056915/172887225-675b6638-e90d-45bd-806e-adce4bc37fa0.png)
+![SCOPE7](https://user-images.githubusercontent.com/107056915/172887233-88781a55-09ed-4031-928a-1cb71af753ea.png)
+![SCOPE8](https://user-images.githubusercontent.com/107056915/172887246-bd66d3d8-6b54-47b1-a5e6-edcc44fa2e50.png)
+![SCOPE9](https://user-images.githubusercontent.com/107056915/172887251-1b820753-394e-40fe-a087-1b1f84bc0a51.png)
+![SCOPE10](https://user-images.githubusercontent.com/107056915/172887286-4b99751d-becc-46e6-81fa-4b8163ca45ac.png)
+![SCOPE11](https://user-images.githubusercontent.com/107056915/172887290-700910e0-784c-4aeb-a9c3-8c038d9b955e.png)
+![SCOPE12](https://user-images.githubusercontent.com/107056915/172887325-ebb3ada2-becb-4bcc-9563-161005b2dffc.png)
+![SCOPE13](https://user-images.githubusercontent.com/107056915/172887332-e1f4dc27-723f-47ce-a9cb-cdac30cf7469.png)
+![SCOPE14](https://user-images.githubusercontent.com/107056915/172887366-8bc1e708-e654-4593-afd3-a317d660b82c.png)
+![SCOPE15](https://user-images.githubusercontent.com/107056915/172887370-7b14044c-8ae1-44ff-ab13-b9dd6aa32bac.png)
+![SCOPE16](https://user-images.githubusercontent.com/107056915/172887401-06906b24-ddfa-4c15-8553-d26065c8b9ea.png)
+![SCOPE17](https://user-images.githubusercontent.com/107056915/172887404-cf492394-dab7-48d3-856e-88b7fba9c524.png)
