@@ -101,3 +101,5 @@ Green arrow indicates succesfull installation.
 
 <br>
 Install and Configure DHCP.
+<br>
+This will allow our windows10 client to receive IP address to access the internet.
