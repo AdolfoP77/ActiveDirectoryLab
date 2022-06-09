@@ -74,3 +74,6 @@ Create Domain Admin Account
 ![admin14](https://user-images.githubusercontent.com/107056915/172871545-7cfe29b0-789e-41e2-b1ce-81614fb32458.png)
 ![admin15](https://user-images.githubusercontent.com/107056915/172871564-93a0479b-c4f4-4c4e-97e2-76eae5d2a61b.png)
 
+<br>
+
+Install RAS/NAT (Remote Access Server/Network Address Translation)
