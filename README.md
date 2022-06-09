@@ -137,3 +137,7 @@ Green arrows indicate Succesfull installation
 ![SCOPE16](https://user-images.githubusercontent.com/107056915/172887401-06906b24-ddfa-4c15-8553-d26065c8b9ea.png)
 Here we can see our newly added scope and leases used.
 ![SCOPE17](https://user-images.githubusercontent.com/107056915/172887404-cf492394-dab7-48d3-856e-88b7fba9c524.png)
+
+<br>
+
+Powershell Script Set up.
