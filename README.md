@@ -116,10 +116,13 @@ This will allow our windows10 client to receive IP address to access the interne
 
 Install Scope
 ![SCOPE2](https://user-images.githubusercontent.com/107056915/172887153-6851ecae-aeac-4a36-a686-0883d2d2eaee.png)
+Use DC IP
 ![SCOPE3](https://user-images.githubusercontent.com/107056915/172887156-e930ede7-445f-465d-8330-cfa2e0ff7c69.png)
 ![SCOPE4](https://user-images.githubusercontent.com/107056915/172887186-c043cd13-68e3-4971-af1f-4e889749c9ea.png)
 ![SCOPE5](https://user-images.githubusercontent.com/107056915/172887191-4f7424c4-0306-4544-a996-9614ddb22241.png)
+In this section IP Exclusions can be added. 
 ![SCOPE6](https://user-images.githubusercontent.com/107056915/172887225-675b6638-e90d-45bd-806e-adce4bc37fa0.png)
+In this section Lease time can be adjusted according to usage
 ![SCOPE7](https://user-images.githubusercontent.com/107056915/172887233-88781a55-09ed-4031-928a-1cb71af753ea.png)
 ![SCOPE8](https://user-images.githubusercontent.com/107056915/172887246-bd66d3d8-6b54-47b1-a5e6-edcc44fa2e50.png)
 ![SCOPE9](https://user-images.githubusercontent.com/107056915/172887251-1b820753-394e-40fe-a087-1b1f84bc0a51.png)
@@ -128,6 +131,9 @@ Install Scope
 ![SCOPE12](https://user-images.githubusercontent.com/107056915/172887325-ebb3ada2-becb-4bcc-9563-161005b2dffc.png)
 ![SCOPE13](https://user-images.githubusercontent.com/107056915/172887332-e1f4dc27-723f-47ce-a9cb-cdac30cf7469.png)
 ![SCOPE14](https://user-images.githubusercontent.com/107056915/172887366-8bc1e708-e654-4593-afd3-a317d660b82c.png)
+After installation Authorize and Refresh.
 ![SCOPE15](https://user-images.githubusercontent.com/107056915/172887370-7b14044c-8ae1-44ff-ab13-b9dd6aa32bac.png)
+Green arrows indicate Succesfull installation
 ![SCOPE16](https://user-images.githubusercontent.com/107056915/172887401-06906b24-ddfa-4c15-8553-d26065c8b9ea.png)
+Here we can see our newly added scope and leases used.
 ![SCOPE17](https://user-images.githubusercontent.com/107056915/172887404-cf492394-dab7-48d3-856e-88b7fba9c524.png)
