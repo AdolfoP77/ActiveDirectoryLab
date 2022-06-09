@@ -96,4 +96,5 @@ Install NAT
 ![RASLABEL](https://user-images.githubusercontent.com/107056915/172879860-54883cbe-c0ad-4be0-8c7b-502586d2a9a6.png)
 ![RASLABEL1](https://user-images.githubusercontent.com/107056915/172879864-1b09e705-be3b-4287-8d9e-62b167086c0f.png)
 ![RASLABEL2](https://user-images.githubusercontent.com/107056915/172879919-dde21f84-9199-4f7c-9258-c3f33b632986.png)
+Green arrow indicates succesfull installation.
 ![RASLABEL3](https://user-images.githubusercontent.com/107056915/172879923-0dcb21c6-aed6-4de8-bfaa-d57000aa0143.png)
