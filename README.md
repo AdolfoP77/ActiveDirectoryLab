@@ -159,3 +159,6 @@ Browse to Active Directory Users and Computers, you should see the new users add
 <br>
 
 Join Windows 10 VM to Domain
+<br>
+Rename Client
+
