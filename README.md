@@ -140,12 +140,18 @@ Here we can see our newly added scope and leases used.
 
 <br>
 
-Powershell Script Set up.
+Powershell Script Set up, I will be using a Script provided by Josh Madakor a Educator on Youtube
+<br>
+Make sure to right click and run as administrator
 ![ps1](https://user-images.githubusercontent.com/107056915/173111132-3e6b3772-e4a0-4f73-afa7-ac48dbebc826.png)
 ![ps2](https://user-images.githubusercontent.com/107056915/173111138-b787073c-34ee-457c-917e-4ab5ab1aab18.png)
 ![ps3](https://user-images.githubusercontent.com/107056915/173111154-939233b0-5880-4f52-a2f4-7d588da17d08.png)
+Browse and select Script File
 ![ps4](https://user-images.githubusercontent.com/107056915/173111158-f716c59b-ce48-4428-a41e-19a37184a475.png)
+Map Names.txt location then select run at the top
 ![ps5](https://user-images.githubusercontent.com/107056915/173111169-5fb99dec-77c5-4aa2-8d9e-686739036fa9.png)
 ![ps6](https://user-images.githubusercontent.com/107056915/173111173-023b1953-4ff6-4207-9dd1-7a044e3c073f.png)
+Powershell will begin creating Users
 ![ps7](https://user-images.githubusercontent.com/107056915/173111187-525240b7-67d6-4589-9266-0f6186786eaa.png)
+Browse to Active Directory Users and Computers, you should see the new users added by the Powershell Script
 ![ps8](https://user-images.githubusercontent.com/107056915/173111191-26fcad84-83f3-43ae-abb1-41d022feb006.png)
