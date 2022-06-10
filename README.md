@@ -160,5 +160,22 @@ Browse to Active Directory Users and Computers, you should see the new users add
 
 Join Windows 10 VM to Domain
 <br>
-Rename Client
+![client1](https://user-images.githubusercontent.com/107056915/173119948-1aab2f09-febc-459c-9582-37cd6f14b801.png)
+Here we can see we do not have a default gateway
+![client2](https://user-images.githubusercontent.com/107056915/173119951-167d22b3-d35b-4fb8-a7e7-d83fe75f71b7.png)
+![client3](https://user-images.githubusercontent.com/107056915/173119970-0250cff5-8f1b-48e8-871c-26d1d753873a.png)
+Switch over to the DC and configure Router options
+![client4](https://user-images.githubusercontent.com/107056915/173119974-18a418c6-e509-4b0b-be4a-67e9ce4c2639.png)
+Restart Server
+![client5](https://user-images.githubusercontent.com/107056915/173119989-b71c075d-4c6d-401e-8452-b89f26ba400e.png)
+Switch to Windows10 VM ipconfig / renew on Command Line and we should now have a gateway
+![client6](https://user-images.githubusercontent.com/107056915/173119993-69b74330-bc0b-451d-91e8-37b364670691.png)
+Rename PC and join Domain
+![client7](https://user-images.githubusercontent.com/107056915/173120003-1de14634-e895-4533-aff2-b0ef3f7c4d5d.png)
+![client8](https://user-images.githubusercontent.com/107056915/173120009-40992ed4-0226-43bb-bffc-f3b83382729b.png)
+![client9](https://user-images.githubusercontent.com/107056915/173120027-f4d1bf76-3dca-473e-bde0-f2c3eb9769d8.png)
+Done! 
+![client10](https://user-images.githubusercontent.com/107056915/173120031-881b63d8-df78-4f31-ba58-b3cd6551403b.png)
+Any questions feel free to reach out. Hope this was helpful
+
 
