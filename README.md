@@ -155,3 +155,7 @@ Powershell will begin creating Users
 ![ps7](https://user-images.githubusercontent.com/107056915/173111187-525240b7-67d6-4589-9266-0f6186786eaa.png)
 Browse to Active Directory Users and Computers, you should see the new users added by the Powershell Script
 ![ps8](https://user-images.githubusercontent.com/107056915/173111191-26fcad84-83f3-43ae-abb1-41d022feb006.png)
+
+<br>
+
+Join Windows 10 VM to Domain
